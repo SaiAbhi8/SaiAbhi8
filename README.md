@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sai Abhishek Varigonda
 
-💼 **AI Engineer at VedaQuantAI, Kolkata, India**
+💼 **AI Engineer at VedaQuantAI**
 🎓 **M.Tech, Vision and Intelligent Systems (formerly VIPES), Department of E&ECE, IIT Kharagpur**
 🎓 **B.Tech - ECE, Department of ECE, Andhra University**
 
