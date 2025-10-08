@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sai Abhishek Varigonda
 
-🎓 **M.Tech, Vision and Intelligent Systems** (formerly VIPES)
-📍 *Indian Institute of Technology Kharagpur*
-💼 *Data Analyst (AI/ML) at VedaQuantAI, Kolkata*
+💼 *AI Engineer at VedaQuantAI, Kolkata, India*
+🎓 **M.Tech, Vision and Intelligent Systems (formerly VIPES), Department of E&ECE, IIT Kharagpur**
+📍 *B.Tech - ECE, Department of ECE, Andhra University*
 
 ---
 
